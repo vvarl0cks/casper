@@ -4210,7 +4210,7 @@ object
 
     color: #fff;
     border-bottom: #ebf2f6 1px solid;
-    background: #303538 no-repeat center center;
+    background: #000000 no-repeat center center;
     background-size: cover;
 }
 .site-head:after
